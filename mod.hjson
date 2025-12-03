@@ -1,7 +1,20 @@
 name: tinport-fancy-resprites
-displayName: tinport serpulo resprites
+displayName: Tinport Serpulo Resprites
 hidden: true
 minGameVersion: 136
-author: tinport
-version: 1.0
-description: resprites random garbage. since im so cool. do not use this with a bad computer or phone or you will get horrible fps.
+author: '''
+[#f09267[]]Tinport[[]]
+'''
+version: v1.1
+description: '''
+Resprites a (currently) small amount of serpulo right now.
+
+Currently Revamped:
+- [#fbe488[]]Power[[]]
+- [#e7ecac[]]Drills[[]]
+
+Special Thanks To:
+- [#dd9eb1[]]Blehhhhh Cat[[]] (@g_o_r_t_) For giving a decent amount of feedback.
+- [#9b59b6[]]CY4NIDE[[]] (@CY4NIDE) For assisting me with making Impact Reactor plasma resprites.
+
+'''
