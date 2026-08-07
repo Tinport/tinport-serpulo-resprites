@@ -5,7 +5,7 @@ minGameVersion: 136
 author: '''
 [#f09267[]]Tinport[[]]
 '''
-version: v1.1
+version: v1.2
 description: '''
 Resprites a (currently) small amount of serpulo right now.
 
@@ -14,9 +14,11 @@ Currently Revamped:
 - [#e7ecac[]]Drills[[]]
 - [#f09267[]]Item Logistics[[]]
 - [#95c4f4[]]Liquid Logistics[[]]
+- [#fff794[]]Factories[[]]
 
 Special Thanks To:
-- [#dd9eb1[]]Blehhhhh Cat[[]] (@g_o_r_t_) For giving a decent amount of feedback.
-- [#9b59b6[]]CY4NIDE[[]] (@CY4NIDE) For assisting me with making Impact Reactor plasma resprites.
+- [#dd9eb1[]]Thinkerdoodle[[]] (@thinkerdoodle) For giving a decent amount of feedback.
+- [#9b59b6[]]Cirrostratus[[]] (@cirrusisakey) For assisting me with making Impact Reactor plasma resprites.
+larp name
 
 '''
